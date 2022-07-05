@@ -41,7 +41,7 @@ while True:
     if(x == '3'):
         print('Degrees: ', radians_to_degrees(), '°')
     if(x == '4'):
-        # This is to determine if an angle is coterminal
+        # This is to determine if an angle is coterminal 
         for i in range(2):
             print('1: Angle is in radians')
             print('2: Angle is in degrees')
